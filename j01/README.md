@@ -3,6 +3,6 @@
 
 [Return to Home](../)
 
-![Controller Image](../assets/j01_image1.jpg "Controller Image")
+![Controller Image](../assets/j01_image.jpg "Controller Image")
 
 [Return to Home](../)
