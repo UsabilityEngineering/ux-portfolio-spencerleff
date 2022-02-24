@@ -1,3 +1,5 @@
+[Home](../)
+
 ## Guitar Hero Wii Controller - User eXperience
 ### By Spencer Leff - 2/23/22
 
@@ -14,5 +16,3 @@ The **safety** of the controller was also well designed.  The unit comes with a 
 Although the controller is designed very well, it is not perfect.  While attempting to tilt the guitar upwards to activate an in game mechanic named star power (increases the points gained per note), many users including myself find that the controller has trouble recognizing this motion and will thus not activate until the second, third, or even fourth attempt.  This can definitely lead to a decrease in **satisfaction** when it occurs, especially when it causes the user to miss a note or two during the song.  Compared to my old school model from the 2007 wii version, newer controllers from more recent Guitar Hero games face this problem much less as the technology has progressed.
 
 Overall, the Guitar Hero controller provides a fun User eXperience that only builds upon an already enjoyable video game.
-
-[Home](../)
