@@ -1,5 +1,5 @@
 # UX Portfolio
-![alt text](assets/UX_Profile_Picture.jpg "Profile Picture")
+![Profile](assets/usability_profile_picture.jpg "Profile Picture")
 
 Hi, I'm Spencer, and I'm a computer science major at Chico State University!
 
