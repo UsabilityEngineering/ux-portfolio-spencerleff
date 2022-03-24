@@ -5,3 +5,4 @@ Hi there! My name is Spencer Leff, and I am a computer science major enrolled in
 
 ## UX Journal
 [Journal Entry 1](j01/)
+[Journal Entry 2](j02/)
