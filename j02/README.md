@@ -10,7 +10,7 @@ The GOTRAX GXL V2 electric scooter provides a very enjoyable travel experience f
 
 ![J02 Image 2](../assets/j02_image2.JPG "J02 Image 2")
 
-
+The first gripe I have with the design of the scooter is the folding mechanism. The process to fold the scooter after using it is nearly flawless. You simply pull a lever near the front of the device and to allow the upper portion of the scooter to begin folding downwards towards the back wheel.  Then, you line up the two red pieces and push them down onto one another until it clicks.  The entire process is simple to complete, and extremely **error tolerance**.  If the two latches are not lined up, you can easily adjust it and push again until it properly folds.  The real problem with this part of the scooter is unfolding it for use. This aspect of the scooter is **not easy to learn** by any means. After many uses of this scooter, I still struggle to pull apart these two red pieces. The idea is to push down on the back fender while also pulling up on the handlebar to separate the upper and lower red latches.  No matter how confident or strategic I am, I fail to separate these pieces at least two times before successfully pulling them apart.  Overall, this causes the unfolding process to be **unsatisfying** each and every time I use the device. 
 
 
 ![J02 Image 3](../assets/j02_image3.JPG "J02 Image 3")
