@@ -5,7 +5,18 @@
 
 ![J02 Image 1](../assets/j02_image1.JPG "J02 Image 1")
 
-The GOTRAX GXL V2 electric scooter provides a very enjoyable travel experience for a pretty reasonable price.  It is made with pretty solid materials at a $300 price point, which explains why it is by far the most popular choice when it comes to electric scooters.
+The GOTRAX GXL V2 electric scooter provides a very enjoyable travel experience for a pretty reasonable price.  It is made with pretty solid materials at a $300 price point, and has a top speed of 15.5 mph. These two factors, along with its range of 12 miles on a full charge explains why it is by far the most popular choice when it comes to electric scooters.  However, there are some flaws in the scooter's design when discussing the user experience.
+
+
 ![J02 Image 2](../assets/j02_image2.JPG "J02 Image 2")
+
+
+
+
 ![J02 Image 3](../assets/j02_image3.JPG "J02 Image 3")
+
+
+
+
 ![J02 Image 4](../assets/j02_image4.JPG "J02 Image 4")
+
