@@ -15,8 +15,9 @@ The first gripe I have with the design of the scooter is the folding mechanism. 
 
 ![J02 Image 3](../assets/j02_image3.JPG "J02 Image 3")
 
-
+Shown in the image above is the power button (red circular button), as well as the charging port, for which the cover is pulled back in this image.  The charging experience overall is well done.  The scooter can be charged at any working electrical outlet, which provides some versatility.  It can charge from 0 to full in about 3 hours, which is nothing to brag about but gets the job done.  The power button can be a little trickier.  A short press of the button activates the headlight on the front of the scooter.  Holding the power button for about 5 seconds turns the device on and off.  While in theory this system is fine, I find that it can be difficult to perform a long press. Oftentimes I don't press the button hard enough, and the headlight turns on halfway through my long press, canceling the action I wanted to perform.  So far, I've had a tough time **remembering (memorization)** to press hard enough to actually turn the device on or off like I want to, but it's so easy to fix that it doesn't reduce user **satisfaction**.
 
 
 ![J02 Image 4](../assets/j02_image4.JPG "J02 Image 4")
 
+Finally, is the user interface when the scooter is turned on.  As shown on the screen, a user can easily glance down and view their current speed and battery life remaining. In order to accelerate, the user must first push the scooter until it is going about 3 MPH. Once this speed is achieved, you can press down on the button on the right side of the center console to move forward. Accelerating feels zippy, while also being quite **safe**.  The safety is enhanced by the braking system, in which a user intuitively pulls back on the bar that extends on the left side of the center console.  Accelerating and braking are smooth, but driving over rough patches, bumps, and cracks can be somewhat **dangerous** and create a bumpy ride.  A user should be aware of their surroundings and slow down before driving over any questionable areas.
