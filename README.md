@@ -7,3 +7,5 @@ Hi there! My name is Spencer Leff, and I am a computer science major enrolled in
 [Journal Entry 1](j01/)
 
 [Journal Entry 2](j02/)
+
+[Journal Entry 3](j03/)
