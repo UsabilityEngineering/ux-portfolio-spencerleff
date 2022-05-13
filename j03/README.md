@@ -5,14 +5,12 @@
 
 <img src="../assets/J03_Image1.JPG" alt="J03 Image 1" width="400"/>
 
-Intro
+Intro leading into section 1
 
-![J03 Image 2](../assets/J03_Image2.JPG "J03 Image 2")
+<img src="../assets/J03_Image2.JPG" alt="J03 Image 2" width="400"/>
 
-point one
+Section 2
 
-![J03 Image 3](../assets/J03_Image3.JPG "J03 Image 3")
+<img src="../assets/J03_Image3.JPG" alt="J03 Image 3" width="400"/>
 
-point two
-
-outro
+Section 3 into outro
