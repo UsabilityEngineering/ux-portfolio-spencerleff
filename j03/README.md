@@ -3,7 +3,7 @@
 ## TCL Roku TV Remote - User eXperience
 ### By Spencer Leff - 5/13/22
 
-![J03 Image 1](../assets/J03_Image1.JPG "J03 Image 1")
+<img src="../assets/J03_Image1.jpg" alt="J03 Image 1" width="400"/>
 
 Intro
 
